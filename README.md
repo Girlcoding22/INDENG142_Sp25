@@ -42,3 +42,15 @@ This repository contains the final project for **INDENG 142A (Spring 2025)** at 
 - Apply machine learning models for regression, classification, and clustering.
 - Compare model performance across raw vs. aggregated datasets.
 - Visualize clustering and feature relationships for interpretability.
+
+## 📈 Visualizations
+
+The project includes various visualizations to aid in understanding the data and model results, such as:
+
+- 3D PCA cluster plots (`3DPCACluster.png`)
+- Correlation heatmaps
+- Model performance charts (e.g., R² scores, classification accuracy, confusion matrices)
+
+## 📄 License
+
+This project is for educational purposes as part of the INDENG 142A course at UC Berkeley.
